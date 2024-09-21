@@ -1,16 +1,21 @@
-## Hi there 👋
+## Boas vindas ao meu perfil🚙
 
-<!--
-**roqamarante/roqamarante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Roque Amarante 
 
-Here are some ideas to get you started:
+- Estou me desenvolvendo no [Alura](https://Alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode falar comigo📧
+  
+  00001142778654SP@al.educacao.sp.gov.br
+
+   @amaranteroque
+
+
+
+
+
+  ![](https://tenor.com/pt-BR/view/wow-omg-surprised-scared-kid-gif-10714204)
+  
+  
